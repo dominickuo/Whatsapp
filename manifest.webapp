@@ -1,0 +1,16 @@
+{
+  "name": "Whatsapp",
+  "short_name": "Whatsapp",
+  "start_url":  "https://www.whatsapp.com",
+  "fullscreen__": true,
+  "description": "Simple. Secure. Reliable messaging.",
+  "theme":"#ffffff",
+  "cursor": true,
+  "ime_default_softkey_bar": true,
+  "default_locale": "en-US",
+  "icons": {
+    "56": "https://dominickuo.github.io/Whatsapp/128.png",
+    "128": "https://dominickuo.github.io/Whatsapp/128.png"
+  }
+}
+
